@@ -42,13 +42,6 @@ npm run dev
 
 Open http://localhost:5173
 
-## Deploy
-
-```bash
-npm run deploy
-```
-
-Builds the project and pushes to the `gh-pages` branch automatically.
 
 ## Structure
 
@@ -58,8 +51,8 @@ src/
 ├── index.css
 ├── main.jsx
 └── components/
-    ├── ArtworkCard.jsx
-    └── Search.jsx
+├── ArtworkCard.jsx
+└── Search.jsx
 
 
 ## Credits
