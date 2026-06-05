@@ -45,14 +45,14 @@ Open http://localhost:5173
 
 ## Structure
 
-src/
-├── App.jsx
-├── artworks.js
-├── index.css
-├── main.jsx
-└── components/
-├── ArtworkCard.jsx
-└── Search.jsx
+    src/
+    ├── App.jsx
+    ├── artworks.js
+    ├── index.css
+    ├── main.jsx
+    └── components/
+        ├── ArtworkCard.jsx
+        └── Search.jsx
 
 
 ## Credits
